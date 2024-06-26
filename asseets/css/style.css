@@ -1,0 +1,249 @@
+body {
+    font-family: inter !important;
+    background: #F0F0F0;
+}
+
+/* <!-- navbar --> */
+.nav-link {
+    color: #2A2A2A;
+    font-family: Inter;
+    font-size: 17.19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.19px;
+    /* 111.635% */
+    text-transform: uppercase;
+}
+
+/* <!-------min-heder--> */
+
+.min-heder h1 {
+    color: #2A2A2A;
+    font-size: 116.33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 107.464px;
+    /* 87.848% */
+    text-transform: uppercase;
+}
+
+.min-heder h6 {
+    color: #2A2A2A;
+    font-size: 17.19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.19px;
+    /* 111.635% */
+    text-transform: uppercase;
+}
+
+.min-heder {
+    padding: 63px 0px 76px;
+}
+
+.min-heder-img .row {
+    /* display: flex;
+    justify-content: center; */
+    gap: 38px;
+    margin-top: 50px;
+    /* flex-wrap: wrap; */
+}
+
+.img-001 {
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+
+}
+
+.img-footer {
+    padding-top: 14px;
+    color: #2A2A2A;
+    font-size: 16.27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17.3px;
+    /* 106.331% */
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #2A2A2A;
+    font-size: 26.87px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.179px;
+    /* 89.987% */
+    text-transform: uppercase;
+}
+
+/* <!-- ABOUT-SEC --> */
+/* .container-fluid .about-sec {
+    width: 100%;
+} */
+
+.about-fast {
+    max-width: 610.13px;
+    padding-top: 132PX;
+}
+
+.Global-last {
+    margin-top: 58PX;
+    color: #2A2A2A;
+    font-size: 24.87px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.866px;
+    /* 108.026% */
+    text-transform: uppercase;
+
+}
+
+.about-next {
+    max-width: 657.45px;
+    padding-top: 300PX;
+    border-radius: 20;
+}
+
+.about-next-P {
+    color: #2A2A2A;
+    font-size: 20.11px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25.331px;
+    /* 125.961% */
+}
+
+.btn .btn-dark .ounded-5 {
+    width: 35px;
+}
+
+/* second-img */
+.sec-img {
+    padding: 81px 0px 135px;
+}
+
+.FEATURED {
+    color: #2A2A2A;
+    font-size: 84.11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 73.69px;
+    /* 87.611% */
+    /* text-transform: uppercase; */
+}
+
+/* <!-- second-benear --> */
+.sec-ben {
+    width: 100%;
+    padding-top: 81px;
+}
+
+.spotify {
+    /* width: 25%; */
+    height: 100%;
+    padding-right: 39px;
+}
+
+.spotify-p {
+    margin-top: 25px;
+    margin-bottom: 38px;
+    min-height: 155px;
+}
+
+.sky-p {
+    margin-top: 34px;
+}
+
+
+/* <!--third-section --> */
+
+
+.Brands {
+    padding: 148px 0 180px;
+    color: #2A2A2A;
+    font-family: Inter;
+    font-size: 46.348px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53.348px;
+    /* 115.103% */
+    text-transform: uppercase;
+}
+
+.table-responsive .table td {
+    background: #F0F0F0;
+    padding: 26px 0px;
+    color: #000000;
+    font-size: 16.27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17.271px;
+    /* 106.152% */
+    text-transform: uppercase;
+}
+
+.table-responsive .table .first-name {
+    width: 43.33%;
+}
+
+.table-responsive .table .second-name {
+    width: 23.33%;
+}
+
+.table-responsive .table .third-name {
+    width: 33.33%;
+}
+
+/* <!-- footer-sec --> */
+
+.footer-img {
+    margin: 227px 0 38px;
+    /* display: flex;
+gap: 38px;
+
+flex-wrap: wrap; */
+}
+
+.footer-img .row {
+    row-gap: 16px;
+}
+
+/* last-sec-footer */
+.last-footer {
+    width: 100%;
+}
+
+.next-pag {
+    padding-left: 15px;
+    color: #2A2A2A;
+    font-size: 17.19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.19px;
+    /* 111.635% */
+    text-transform: uppercase;
+}
+
+.CASE {
+    color: #2A2A2A;
+    font-size: 90.11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 92.112px;
+    /* 102.222% */
+    text-transform: uppercase;
+}
+
+.we-word {
+    margin: 140px 0 20px;
+    color: #2A2A2A;
+    font-size: 25.87px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.179px;
+    /* 93.465% */
+    text-transform: uppercase;
+}
+/* .we-word p{
+    
+} */
